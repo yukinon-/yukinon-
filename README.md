@@ -1,9 +1,7 @@
 <h3 align="center">I'm yukinon.</h3>
 
-Scala, Go & Java dev. 
-
-I don't socialize.
+Expert-level **Scala** dev. Can also do Java, Python, Go.
 
 # I like
-* Coding
-* Writing
+* Game development.
+* Not socializing.
