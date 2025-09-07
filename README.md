@@ -1,7 +1,6 @@
-<h3 align="center">I'm yukinon.</h3>
+<h3 align="center">Indie Game Developer</h3>
 
-Expert-level **Scala** dev. Can also do Java, Python, Go.
-
-# I like
-* Game development.
-* Not socializing.
+### Stack
+**Language:** Go, Java, Python
+**Libraries:** Libgdx, Ebitengine, Pyglet
+**Engines:** Godot
